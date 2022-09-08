@@ -1,6 +1,6 @@
-# SimuladorTrafico
+# Robot/Cajas
 
-## Archivos del proyecto de Unity para el simulador de tráfico.
+## Archivos del proyecto de Unity para el simulador de Robot/Cajas.
 
 1. En primer lugar es necesario descargar los archivos presentes en este unity con los nombres de:
  - Assets
