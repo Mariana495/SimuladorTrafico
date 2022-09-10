@@ -13,7 +13,7 @@
 
 4.Por último habrá que recargar el Unity y seleccionar la escena de **"Almacen2"** dentro del apartado de *Assets/Scenes/* para proceder a la ejecución del programa.
 
-Extra: Es posible que no cargue el mesh del piso de la escena, por lo que se necesitaría reimportar la serie de Assets "Sci-Fi Styled Modular Pack" que se encuentra en 
+Extra: Es posible que no cargue el mesh del piso de la escena, por lo que se necesitaría reimportar la serie de Assets "Sci-Fi Styled Modular Pack" que se encuentra en https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 .
 
-https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 .
+Ejemplo de simulación:
 ![Bots moving boxes](https://user-images.githubusercontent.com/88664775/189465703-1e598e76-0b7c-4376-a787-76be9498d069.gif)
