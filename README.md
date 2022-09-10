@@ -12,3 +12,5 @@
 3.Posterior a esto, habrá que reemplazar las carpetas autogeneradas del proyecto con las 3 descargadas anteriormente.
 
 4.Por último habrá que recargar el Unity y seleccionar la escena de **"Almacen2"** dentro del apartado de *Assets/Scenes/* para proceder a la ejecución del programa.
+
+Extra: Es posible que no cargue el mesh del piso de la escena, por lo que se necesitaría reimportar la serie de Assets "Sci-Fi Styled Modular Pack" que se encuentra en https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913 .
